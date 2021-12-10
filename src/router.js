@@ -1,5 +1,16 @@
 import Vue from "vue";
 import Router from "vue-router";
+import Home from "./views/Site.vue";
+import Group from "./views/Group.vue";
+import Subject from "./views/Subject.vue";
+import makeSubject from "./views/makeSubject.vue";
+import modifySubject from "./views/modifySubject.vue";
+import makeGroup from "./views/makeGroup.vue";
+import modifyGroup from "./views/modifyGroup.vue";
+import Signin from "./views/Signin.vue";
+import Signup from "./views/Signup.vue";
+import PrivateChanges from "./views/PrivateChanges.vue";
+import LookupFail from "./views/LookupFail.vue";
 
 Vue.use(Router);
 

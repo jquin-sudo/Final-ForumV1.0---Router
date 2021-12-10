@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "title": "Memes",
+        "slug": "Memes",
+        "description": "A unit of cultural information, such as a cultural practice or idea, that is transmitted verbally or by repeated action from one mind to another.",
+        "color": "#ff6314"
+    },
+    {
+        "_id": 2,
+        "title": "Story",
+        "slug": "Story",
+        "description": "A connected account or narration, oral or written, of events of the past; history.",
+        "color": "#ee7799"
+    },
+    {
+        "_id": 3,
+        "title": "News",
+        "slug": "News",
+        "description": "Information about recent events or happenings, especially as reported by means of newspapers, websites, radio, television, and other forms of media.",
+        "color": "#77dd88"
+    },
+    {
+        "_id": 4,
+        "title": "Trending",
+        "slug": "Trending",
+        "description": "What is trending?",
+        "color": "#11ccff"
+    }
+]

@@ -1,6 +1,11 @@
 import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
+import store from "./store";
+import Vuelidate from "vuelidate";
+import VueClosable from "vue-closable";
+import humanizeDate from "./parse/filters/readableData";
+import authMixin from "./parse/mixins/authCombine";
 
 Vue.config.productionTip = false;
 
